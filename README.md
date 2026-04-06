@@ -15,15 +15,13 @@ SAR-based flood mapping is especially useful because it can **penetrate clouds a
   <img src="Images/Study_Area.jpg" width="450">
   <br><em>Study Area, Matara District</em>
 </p>
-Matara District is located in the Southern Province of Sri Lanka, covering an area of approximately 1,301 km². It lies along the southern coastline of the island, bounded by the Indian Ocean to the south, and is characterized by a combination of coastal lowlands, riverine floodplains, and gently undulating inland terrain. According to the 2012 census, the district has a population of approximately 804,000, with a relatively high population density, particularly in urban and semi-urban areas.
+Matara District is located in the Southern Province of Sri Lanka, covering approximately 1,301 km² along the southern coastline. The district consists of coastal lowlands, river floodplains, and gently undulating inland terrain, making it highly susceptible to flooding.
 
-A defining geographical feature of the district is the Nilwala River, which originates in the central highlands and flows southward through Matara before discharging into the Indian Ocean. The river basin forms extensive alluvial plains, which are intensively used for paddy cultivation and other agricultural activities. These low-lying areas, while agriculturally productive, are highly susceptible to seasonal flooding, especially during periods of prolonged rainfall.
+A key hydrological feature is the Nilwala River, which flows from the central highlands through Matara before draining into the Indian Ocean. Its extensive alluvial floodplains, widely used for paddy cultivation, are particularly vulnerable to seasonal inundation.
 
-Climatically, Matara falls within the wet zone of Sri Lanka, receiving substantial rainfall primarily from the Southwest Monsoon (May to September) and the Second Inter-Monsoon (October to November). The district’s proximity to the ocean enhances moisture availability, often leading to intense and continuous rainfall events. These climatic conditions, combined with relatively flat terrain and poor drainage in certain areas, significantly increase the district’s vulnerability to riverine floods, surface water accumulation, and occasional landslides in inland regions.
+The district falls within Sri Lanka’s wet zone, receiving significant rainfall from the Southwest Monsoon (May–September) and the Second Inter-Monsoon (October–November). Intense and prolonged rainfall, combined with flat terrain and poor drainage, frequently leads to riverine flooding and surface water accumulation.
 
-In terms of infrastructure, the district is traversed by major transportation routes, including the Southern Expressway (E001), which plays a crucial role in regional connectivity. However, these infrastructure networks are frequently affected during extreme weather events, highlighting the importance of effective flood monitoring and management.
-
-Overall, the interaction between hydrological systems (Nilwala River), climatic patterns (monsoonal rainfall), and land use (agriculture and settlements) makes Matara District a highly flood-prone region, providing a suitable case study for analyzing flood dynamics using remote sensing and GIS techniques.
+The interaction of monsoonal rainfall, low-lying terrain, and intensive land use makes Matara District a highly flood-prone region, providing an ideal setting for SAR-based flood analysis.
 
 ---
 
@@ -36,7 +34,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 | Matara District boundary | (https://diva-gis.org/data.html) | Clipping flood extent to study area |
 | Road network | OpenStreetMap / Local GIS sources | For infrastructure impact assessment |
 
-> **Note:** Large SAR products are not included in this repository. Download links is provided here.
+> **Note:** Large SAR products are not included in this repository. Download links are provided.
 
 ---
 ## Tools & Software
@@ -74,6 +72,8 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 | Water-covered area | 13.15 km² (1.01%) | 40.24 km² (3.09%) | +27.09 km² (+206%) |
 | Land area | 1,288.15 km² (98.99%) | 1,261.06 km² (96.91%) | -27.09 km² (-2.1%) |
 
+- The 206% increase in water extent indicates a substantial escalation in flood magnitude, serving as a strong proxy for flood severity and highlighting significant impacts on low-lying agricultural and settlement areas.
+
 **Observations:**
 
 - Flooding concentrated in **southern and central parts** of Matara District
@@ -89,7 +89,12 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
   <img src="Images/DS_Areas.jpeg" width="450">
   <br><em>Flooded Areas</em>
 </p>
+---
 
+## Future Implications
+- Use multi-temporal SAR for flood progression analysis
+- Integrate rainfall data for better flood modeling
+- Apply machine learning for automated flood detection
 
 Author : Theekshana Pathirana
 BSc. in Geographical Information Science
