@@ -78,7 +78,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 
 - Flooding concentrated in **southern and central parts** of Matara District
 <p align="center">
-  <img src="Images/Pre-Post.jpg" width="600">
+  <img src="Images/Pre-Post.jpg" width="800">
   <br><em>Pre and Post flood maps</em>
 </p>
 
