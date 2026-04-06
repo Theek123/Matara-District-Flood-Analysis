@@ -78,7 +78,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 
 - Flooding concentrated in **southern and central parts** of Matara District
 <p align="center">
-  <img src="Images/Pre-Post.jpg" width="450">
+  <img src="Images/Pre-Post.jpg" width="500">
   <br><em>Pre and Post flood maps</em>
 </p>
 
@@ -87,7 +87,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 - Agricultural impact: Large paddy fields in Thihagoda, Malimbada, Athuraliya, and Akuressa submerged, likely causing crop damage and economic loss.
 <p align="center">
   <img src="Images/DS_Areas.jpeg" width="450">
-  <br><em>Flood and Divisional Secretariat Areas</em>
+  <br><em>Flooded Areas</em>
 </p>
 ---
 
