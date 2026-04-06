@@ -81,7 +81,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
   <img src="Images/Pre-Post.jpg" width="450">
   <br><em>Pre and Post flood maps</em>
 </p>
-- Significant inundation along **Nilwala River basins**  
+- Significant inundation along Nilwala river basin
 - Infrastructure impact: Southern Expressway sections were impassable due to flooding  
 - Agricultural impact: Large paddy fields in Thihagoda, Malimbada, Athuraliya, and Akuressa submerged, likely causing crop damage and economic loss  
 
