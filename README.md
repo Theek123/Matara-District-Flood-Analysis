@@ -86,7 +86,7 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 - Infrastructure impact: Southern Expressway sections were impassable due to flooding.
 - Agricultural impact: Large paddy fields in Thihagoda, Malimbada, Athuraliya, and Akuressa submerged, likely causing crop damage and economic loss.
 <p align="center">
-  <img src="Images/DS_Areas.jpg" width="450">
+  <img src="Images/DS_Areas.jpeg" width="450">
   <br><em>Flood and Divisional Secretariat Areas</em>
 </p>
 ---
