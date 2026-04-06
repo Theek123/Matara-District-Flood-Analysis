@@ -10,6 +10,11 @@ SAR-based flood mapping is especially useful because it can **penetrate clouds a
 ---
 
 ## Study Area
+
+<p align="center">
+  <img src="Images/Study_Area.jpg" width="450">
+  <br><em>Study Area, Matara District</em>
+</p>
 Matara District is located in the Southern Province of Sri Lanka, covering an area of approximately 1,301 km². It lies along the southern coastline of the island, bounded by the Indian Ocean to the south, and is characterized by a combination of coastal lowlands, riverine floodplains, and gently undulating inland terrain. According to the 2012 census, the district has a population of approximately 804,000, with a relatively high population density, particularly in urban and semi-urban areas.
 
 A defining geographical feature of the district is the Nilwala River, which originates in the central highlands and flows southward through Matara before discharging into the Indian Ocean. The river basin forms extensive alluvial plains, which are intensively used for paddy cultivation and other agricultural activities. These low-lying areas, while agriculturally productive, are highly susceptible to seasonal flooding, especially during periods of prolonged rainfall.
@@ -71,13 +76,19 @@ Overall, the interaction between hydrological systems (Nilwala River), climatic 
 
 **Observations:**
 
-- Flooding concentrated in **southern and central parts** of Matara District  
+- Flooding concentrated in **southern and central parts** of Matara District
+<p align="center">
+  <img src="Images/Pre-Post.jpg" width="450">
+  <br><em>Pre and Post flood maps</em>
+</p>
 - Significant inundation along **Nilwala River basins**  
 - Infrastructure impact: Southern Expressway sections were impassable due to flooding  
 - Agricultural impact: Large paddy fields in Thihagoda, Malimbada, Athuraliya, and Akuressa submerged, likely causing crop damage and economic loss  
 
 ---
-## Maps / Visuals
 
-- **Pre-flood and Post map:**   
-- **Flood impact on roads:**   
+Author : Theekshana Pathirana
+BSc. in Geographical Information Science
+
+
+
